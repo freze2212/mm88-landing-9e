@@ -1,0 +1,11 @@
+{
+  "name": "landingpage-mm88",
+  "private": true,
+  "scripts": {
+    "dev": "serve . -l 3456",
+    "start": "serve . -l 3456"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
