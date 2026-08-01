@@ -4,7 +4,7 @@
  * ═══════════════════════════════════════════════
  */
 window.SITE_CONFIG = {
-    registerUrl: 'https://mm88e9e05qc.mm88r.com/register.html',
+    registerUrl: 'https://mm88e9e23qc.mm6799.com/register.html',
     videoUrl: 'https://blob.kcam.io/uploads/kjc/1121.mp4',
     siteName: 'MM88',
 

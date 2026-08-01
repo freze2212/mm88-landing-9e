@@ -2,7 +2,7 @@ function getRegisterUrl() {
     if (window.SITE_CONFIG && typeof window.SITE_CONFIG.getRegisterUrl === 'function') {
         return window.SITE_CONFIG.getRegisterUrl();
     }
-    return 'https://mm88e9e06qc.mm2188.com/register.html';
+    return 'https://mm88e9e23qc.mm6799.com/register.html';
 }
 
 function goToRegister() {
